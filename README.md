@@ -1,5 +1,6 @@
 # Hi, I am Masa Cheung 👋
 
+### You can also find me here
 - Linkedin: https://www.linkedin.com/in/man-tat-masa-cheung-725b39b8/
 - AngelList: https://angel.co/u/man-tat-masa-cheung
 
