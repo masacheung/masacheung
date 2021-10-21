@@ -1,7 +1,6 @@
 # Hi, I am Masa Cheung 👋
 
-## I am a software developer with a passion for problem solving.
-## My experience lies mainly with Ruby, Rails, React, Redux and Javascript, but I absolutely love learning new languages and technologies.
+### I am a software developer with a passion for problem solving. My experience lies mainly with Ruby, Rails, React, Redux and Javascript, but I absolutely love learning new languages and technologies.
 
 ### My recent projects
 - [Triolingo](https://triolingo-mern.herokuapp.com/) is a single-page flash card app that features a dictionary, definition, example, synonym, audio pronunciation and discussion board.
