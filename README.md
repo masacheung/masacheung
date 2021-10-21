@@ -1,5 +1,6 @@
 # Hi, I am Masa Cheung 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=masacheung&count_private=true)](https://masanote.herokuapp.com/#/404) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masacheung&count_private=true)](https://masanote.herokuapp.com/#/404)
 ### My recent projects
 - Triolingo: https://triolingo-mern.herokuapp.com/
 - MasaNote: https://masanote.herokuapp.com/#/
