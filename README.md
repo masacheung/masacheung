@@ -5,7 +5,7 @@
 - MasaNote: https://masanote.herokuapp.com/#/
 - Dropping Down: https://masacheung.github.io/dropping_down/
 
-### GitHub Status
+### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=masacheung&count_private=true)](https://masanote.herokuapp.com/#/404)
 
 ### You can also find me here
