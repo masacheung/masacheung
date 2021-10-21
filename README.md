@@ -1,17 +1,17 @@
 # Hi, I am Masa Cheung 👋
 
 ### My recent projects
-- Triolingo: https://triolingo-mern.herokuapp.com/
-- MasaNote: https://masanote.herokuapp.com/#/
-- Dropping Down: https://masacheung.github.io/dropping_down/
+- [Triolingo](https://triolingo-mern.herokuapp.com/)
+- [MasaNote](https://masanote.herokuapp.com/#/)
+- [Dropping Down](https://masacheung.github.io/dropping_down/)
 
 ### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=masacheung&count_private=true)](https://masanote.herokuapp.com/#/404)
 
 ### You can also find me here
-- Linkedin: https://www.linkedin.com/in/man-tat-masa-cheung-725b39b8/
-- AngelList: https://angel.co/u/man-tat-masa-cheung
-- Portfolio: https://masacheung.github.io/portfolio/
+- [Linkedin](https://www.linkedin.com/in/man-tat-masa-cheung-725b39b8/)
+- [AngelList](https://angel.co/u/man-tat-masa-cheung)
+- [Portfolio](https://masacheung.github.io/portfolio/)
 
 
 <!--
