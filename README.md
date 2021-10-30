@@ -10,7 +10,8 @@
 <details closed>
    <summary>GitHub Stats 📈</summary>
     <br>
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masacheung&count_private=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masacheung&count_private=true)
+
 </details>
 
 ### You can also find me here
