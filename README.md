@@ -15,14 +15,6 @@
 
 </details>
 
-<details closed>
-  <summary>My Top Languages ☕ </summary>
-  <br>
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masacheung)](https://github.com/vernchao91/github-readme-stats) 
-  
-</details>
-
 
 ### You can also find me here
 [Portfolio](https://masacheung.github.io/portfolio/)
