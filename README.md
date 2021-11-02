@@ -7,13 +7,8 @@
 - [MasaNote](https://masanote.herokuapp.com/#/) is a single-page note-taking app that features a rich-text editor, image uploading, autosaving, organization with notebooks. MasaNote is an Evernote clone, a popular note taking web app.
 - [Dropping Down](https://masacheung.github.io/dropping_down/) is a one player game and the goal of this game is go down as many stairs as possible. Player will have 10 health point, when player's lose all the health point or drop down to the ground will be "GAME OVER".
 
-<details closed>
-   <summary>GitHub Stats 📈</summary>
-    <br>
-   
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masacheung&count_private=true)
 
-</details>
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masacheung&count_private=true)
 
 
 ### You can also find me here
