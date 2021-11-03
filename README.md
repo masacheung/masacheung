@@ -7,6 +7,19 @@
 - [MasaNote](https://masanote.herokuapp.com/#/) is a single-page note-taking app that features a rich-text editor, image uploading, autosaving, organization with notebooks. MasaNote is an Evernote clone, a popular note taking web app.
 - [Dropping Down](https://masacheung.github.io/dropping_down/) is a one player game and the goal of this game is go down as many stairs as possible. Player will have 10 health point, when player's lose all the health point or drop down to the ground will be "GAME OVER".
 
+### 🛠️ Tech Tools:
+
+<div style="margin: 1em 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavasSript" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="4%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VScode" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="4%" />
+</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masacheung&count_private=true)
 
