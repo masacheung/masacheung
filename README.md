@@ -31,10 +31,6 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/man-tat-masa-cheung-725b39b8/)[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheung.masa@gmail.com)[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/man-tat-masa-cheung)
 
-
-
-
-
 <!--
 **masacheung/masacheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
